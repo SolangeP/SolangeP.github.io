@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 
+title:
 permalink: /
 subtitle: <a href='https://portail.polytechnique.edu/cmap/en/'>Centre de Mathématiques Appliquées</a>, Ecole polytechnique. 
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 profile:
   align: right
-  image:  profil.jpg
+  image:  dsc.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Desk 2015, CMAP, Palaiseau</p>
