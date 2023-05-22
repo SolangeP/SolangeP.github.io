@@ -53,9 +53,9 @@ bio:  I am a fourth year Ph.D student at <a href="https://portail.polytechnique.
 - Assistant to evaluate PSC projects 
 
 ## Miscelleanous
+- Co-organized the [1st edition of National Seminar for Young French Applied Mathematicians](https://cjc-ma2021.github.io/) (CJC-MA) in October 2021! See [here](https://cjcma2023.sciencesconf.org/) for the next edition at CentraleSupélec.
 - Former member of Commission Développement Durable at CMAP
 - Former member of Commission Vie de laboratoire at CMAP
-- Co-organized the 1st edition of National Seminar for Young French Applied Mathematicians (CJC-MA) in October 2021! See [here](https://cjc-ma2021.github.io/) the link of our past event, and [here](https://cjcma2023.sciencesconf.org/) for 2023 edition at CentraleSupélec.
 
 
 
