@@ -26,10 +26,22 @@ bio:  I am a fourth year Ph.D student at <a href="https://portail.polytechnique.
 
 </p>
 
+## Publications
+- Pruilh, S., Jannot, A. S., & Allassonnière, S. (2022). Spatio-temporal mixture process estimation to detect dynamical changes in population. Artificial Intelligence in Medicine, 126, 102258.[[Paper]](https://doi.org/10.1016/j.artmed.2022.102258)
+  
+- Dashper, S.G., Mitchell, H.L., Lê Cao, KA. et al. (2019). Temporal development of the oral microbiome and prediction of early childhood caries. Sci Rep 9, 19732. [[Paper]](https://doi.org/10.1038/s41598-019-56233-0)
+  
+- Matsuyama, M., Morrison, M.,Lê Cao, KA. et al. (2019). Dietary intake influences gut microbiota development of healthy Australian children from the age of one to two years. Sci Rep 9, 12476. [[Paper]](https://doi.org/10.1038/s41598-019-48658-4)
+
+
+
 ## Work Experience
 - **2019-Ongoing**: Ph.D at CMAP, Ecole polytechnique and HeKA team, INRIA/INSERM
 - **April-August 2019**: Statistics research intern at CMAP and HeKA team
 - **February-July 2018**: Data scientist intern at Wavestone company, in Machine Learning & Data lab
+- **July-Septembre 2017**: Statistics research intern with [Kim-Anh Lê Cao](https://lecao-lab.science.unimelb.edu.au/) at Melbourne Integrative Genomics, University of Melbourne.
+
+
 
 ## Education
 
@@ -53,7 +65,7 @@ bio:  I am a fourth year Ph.D student at <a href="https://portail.polytechnique.
 - Assistant to evaluate PSC projects 
 
 ## Miscelleanous
-- Co-organized the [1st edition of National Seminar for Young French Applied Mathematicians](https://cjc-ma2021.github.io/) (CJC-MA) in October 2021! See [here](https://cjcma2023.sciencesconf.org/) for the next edition at CentraleSupélec.
+- Co-organized the [1st edition of National Seminar for Young French Applied Mathematicians](https://cjc-ma2021.github.io/) (CJC-MA) in October 2021! See [here](https://cjcma2023.sciencesconf.org/) for the next edition at CentraleSupélec in September.
 - Former member of Commission Développement Durable at CMAP
 - Former member of Commission Vie de laboratoire at CMAP
 
