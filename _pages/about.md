@@ -27,6 +27,8 @@ bio:  I am a fourth year Ph.D student at <a href="https://portail.polytechnique.
 </p>
 
 ## Publications
+- Pruilh, S, & Allassonnière, S. (2024). Dynamic Expectation-Maximization algorithms for Mixed-type Data.[[Preprint]](https://hal.science/hal-04510689)
+- Pruilh, S (2023). Dynamic mixture models and longitudinal monitoring for mixed-type and spatio-temporal data inference : application in Public Health. [[Manuscript]](https://theses.hal.science/tel-04452903/)
 - Pruilh, S., Jannot, A. S., & Allassonnière, S. (2022). Spatio-temporal mixture process estimation to detect dynamical changes in population. Artificial Intelligence in Medicine, 126, 102258.[[Paper]](https://doi.org/10.1016/j.artmed.2022.102258)
   
 - Dashper, S.G., Mitchell, H.L., Lê Cao, KA. et al. (2019). Temporal development of the oral microbiome and prediction of early childhood caries. Sci Rep 9, 19732. [[Paper]](https://doi.org/10.1038/s41598-019-56233-0)
@@ -36,7 +38,7 @@ bio:  I am a fourth year Ph.D student at <a href="https://portail.polytechnique.
 
 
 ## Work Experience
-- **2019-Ongoing**: Ph.D at CMAP, Ecole polytechnique and HeKA team, INRIA/INSERM
+- **2019-2023**: Ph.D at CMAP, Ecole polytechnique and HeKA team, INRIA/INSERM
 - **April-August 2019**: Statistics research intern at CMAP and HeKA team
 - **February-July 2018**: Data scientist intern at Wavestone company, in Machine Learning & Data lab
 - **July-Septembre 2017**: Statistics research intern with [Kim-Anh Lê Cao](https://lecao-lab.science.unimelb.edu.au/) at Melbourne Integrative Genomics, University of Melbourne.
@@ -45,9 +47,9 @@ bio:  I am a fourth year Ph.D student at <a href="https://portail.polytechnique.
 
 ## Education
 
-- **2019-Ongoing**: Ph.D at CMAP, Ecole polytechnique and HeKA team, INRIA/INSERM
-- **2018-2019**: MSc. at ENS Paris-Saclay, Master MVA
-- **2013-2018**: Engineering degree at INSA Toulouse - specialization in applied mathematics
+- **2019-2023**: Ph.D at CMAP, Ecole polytechnique and HeKA team, INRIA/INSERM
+- **2018-2019**: MSc. at ENS Paris-Saclay, M2 MVA
+- **2013-2018**: Engineering degree in applied mathematics at INSA Toulouse - Major in statistics and data science
 
 
 ## Teaching
@@ -65,7 +67,7 @@ bio:  I am a fourth year Ph.D student at <a href="https://portail.polytechnique.
 - Assistant to evaluate PSC projects 
 
 ## Miscelleanous
-- Co-organized the [1st edition of National Seminar for Young French Applied Mathematicians](https://cjc-ma2021.github.io/) (CJC-MA) in October 2021! See [here](https://cjcma2023.sciencesconf.org/) for the next edition at CentraleSupélec in September.
+- Co-organized the [1st edition of National Seminar for Young French Applied Mathematicians](https://cjc-ma2021.github.io/) (CJC-MA) in October 2021! See [here](https://cjc-ma2024.sciencesconf.org/) for the next edition at ENS Lyon in October.
 - Former member of Commission Développement Durable at CMAP
 - Former member of Commission Vie de laboratoire at CMAP
 
