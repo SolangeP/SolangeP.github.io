@@ -5,7 +5,7 @@ title: "blank" # the website title (if blank, full name will be used instead)
 first_name: Solange
 # middle_name: 
 last_name: Pruilh
-email: solange.pruilh@polytechnique.edu
+email: pruilhsolange@gmail.com
 # keywords: 
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -13,7 +13,7 @@ icon:  # the emoji used as the favicon (alternatively, provide image name in /as
 
 url: https://solangep.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -63,7 +63,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: SolangeP # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: #solangepruilh # your LinkedIn user name
+linkedin_username: solangepruilh # your LinkedIn user name
 scholar_userid: 4wXZAQgAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 orcid_id: 0000-0002-0530-7760 # your ORCID ID
