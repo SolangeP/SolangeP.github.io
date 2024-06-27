@@ -70,7 +70,7 @@ bio:  I have a Ph.D in applied mathematics, and especially statistics and machin
 - Co-organized the [1st edition of National Seminar for Young French Applied Mathematicians](https://cjc-ma2021.github.io/) (CJC-MA) in October 2021! See [here](https://cjc-ma2024.sciencesconf.org/) for the next edition at ENS Lyon in October
 - Former member of Commission Développement Durable at CMAP
 - Former member of Commission Vie de laboratoire at CMAP
-- 
+- Vice President of INSA Toulouse's junior company during my engineer studies
 
 
 
