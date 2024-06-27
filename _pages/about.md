@@ -27,7 +27,7 @@ bio:  I have a Ph.D in applied mathematics, and especially statistics and machin
 ## Publications
 - Pruilh, S, & Allassonnière, S. (2024). Dynamic Expectation-Maximization algorithms for Mixed-type Data.[[Preprint]](https://hal.science/hal-04510689)
   
-- Pruilh, S (2023). Dynamic mixture models and longitudinal monitoring for mixed-type and spatio-temporal data inference : application in Public Health. [[Manuscript]](https://theses.hal.science/tel-04452903/)
+- Pruilh, S (2023). Dynamic mixture models and longitudinal monitoring for mixed-type and spatio-temporal data inference : application in Public Health. [[Manuscript]](http://solangep.github.io/assets/pdf/manuscrit_Pruilh.pdf)
   
 - Pruilh, S., Jannot, A. S., & Allassonnière, S. (2022). Spatio-temporal mixture process estimation to detect dynamical changes in population. Artificial Intelligence in Medicine, 126, 102258.[[Paper]](https://doi.org/10.1016/j.artmed.2022.102258)
   
