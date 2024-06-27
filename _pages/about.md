@@ -17,7 +17,7 @@ profile:
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
-bio:  I have a Ph.D in applied mathematics, and especially statistics and machine learning. I did it at <a href="https://portail.polytechnique.edu/cmap/en/">  CMAP</a> (Ecole Polytechnique) and <a href="https://team.inria.fr/heka/">  HeKA</a> (PariSanteCampus), under the supervision of <a href = "https://sites.google.com/site/stephanieallassonniere/">  Stéphanie Allassonnière</a> and <a href="https://www.linkedin.com/in/anne-sophie-jannot-a2286ba1/"> Anne-Sophie Jannot </a>. My research project was mainly about statistical learning algorithms, mixture models, and applications to public health data. 
+bio:  I have a Ph.D in applied mathematics, and especially statistics and machine learning. I did it at <a href="https://portail.polytechnique.edu/cmap/en/">  CMAP</a> (Ecole Polytechnique) and <a href="https://team.inria.fr/heka/">  HeKA</a> (PariSanteCampus), under the supervision of <a href = "https://sites.google.com/site/stephanieallassonniere/">  Stéphanie Allassonnière</a> and <a href="https://www.linkedin.com/in/anne-sophie-jannot-a2286ba1/"> Anne-Sophie Jannot</a>. My research project was mainly about statistical learning algorithms, mixture models, and applications to public health data. 
 ---
 
 <p>
@@ -66,10 +66,11 @@ bio:  I have a Ph.D in applied mathematics, and especially statistics and machin
 - Registration and Segmentation (MAA308 and MAA309, École polytechnique, 3rd year Bachelor)
 - Assistant to evaluate PSC projects 
 
-## Miscelleanous
+## Miscellaneous
 - Co-organized the [1st edition of National Seminar for Young French Applied Mathematicians](https://cjc-ma2021.github.io/) (CJC-MA) in October 2021! See [here](https://cjc-ma2024.sciencesconf.org/) for the next edition at ENS Lyon in October
 - Former member of Commission Développement Durable at CMAP
 - Former member of Commission Vie de laboratoire at CMAP
+- 
 
 
 
