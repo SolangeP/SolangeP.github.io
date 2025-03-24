@@ -2,7 +2,7 @@
 layout: about
 title: 
 permalink: /
-subtitle: Ph.D and Engineer in Statistics and Machine Learning #<a href='https://portail.polytechnique.edu/cmap/en/'>Centre de Mathématiques Appliquées</a>, Ecole polytechnique. 
+subtitle: Ph.D in Statistics and Machine Learning #<a href='https://portail.polytechnique.edu/cmap/en/'>Centre de Mathématiques Appliquées</a>, Ecole polytechnique. 
 redirect_from: 
   - /home/
   - /home.html
@@ -10,19 +10,19 @@ profile:
   align: right
   image:  profile.jpg
   image_circular: false # crops the image to make it circular
-  # address: >
-  #   <p>Desk 2015, CMAP, Palaiseau</p>
-  #   <p>HeKA team, 3rd floor, PariSanteCampus, Paris</p>
+  address: >
+    <p>Novo Nordisk Foundation Center for Basic Metabolic Research</p>
+    <p>Blegdamsvej 3B, Mærsk Tårnet</p>
+    <p>Copenhagen N.</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
-bio:  I have a Ph.D in applied mathematics, and especially statistics and machine learning. I did it at <a href="https://portail.polytechnique.edu/cmap/en/">  CMAP</a> (Ecole Polytechnique) and <a href="https://team.inria.fr/heka/">  HeKA</a> (PariSanteCampus), under the supervision of <a href = "https://sites.google.com/site/stephanieallassonniere/">  Stéphanie Allassonnière</a> and <a href="https://www.linkedin.com/in/anne-sophie-jannot-a2286ba1/"> Anne-Sophie Jannot</a>. My research project was mainly about statistical learning algorithms, mixture models, and applications to public health data. 
+bio: I am a postdoc in <a href = "https://researchprofiles.ku.dk/en/persons/jordi-merino-ribas"> Jordi Merino</a>'s group at <a href="https://cbmr.ku.dk/"> CBMR</a>, University of Copenhagen. I am working on using continuous glucose monitoring data to explore heterogeneity and patterns in healthy individuals, with the aim of early detection of profiles leading to type 2 diabetes.<br> I have a Ph.D. in applied mathematics, and especially statistics and machine learning. I did it at <a href="https://portail.polytechnique.edu/cmap/en/">  CMAP</a> (Ecole Polytechnique) and <a href="https://team.inria.fr/heka/">  HeKA</a> (PariSanteCampus), under the supervision of <a href = "https://sites.google.com/site/stephanieallassonniere/">  Stéphanie Allassonnière</a> and <a href="https://www.linkedin.com/in/anne-sophie-jannot-a2286ba1/"> Anne-Sophie Jannot</a>. My research project was mainly about statistical learning algorithms, mixture models, and applications to public health data. 
 ---
-
-<p>
-
-</p>
+<br>
+<br>
+<br>
 
 ## Publications
 - Pruilh, S, & Allassonnière, S. (2024). Dynamic Expectation-Maximization algorithms for Mixed-type Data.[[Preprint]](https://hal.science/hal-04510689)
@@ -38,7 +38,7 @@ bio:  I have a Ph.D in applied mathematics, and especially statistics and machin
 
 
 ## Work Experience
-- **2019-2023**: Ph.D at CMAP, Ecole polytechnique and HeKA team, INRIA/INSERM
+- **2019-2023**: Ph.D. student at CMAP, Ecole polytechnique and HeKA team, INRIA/INSERM
 - **April-August 2019**: Statistics research intern at CMAP and HeKA team
 - **February-July 2018**: Data scientist intern at Wavestone company, in Machine Learning & Data lab
 - **July-September 2017**: Statistics research intern with [Kim-Anh Lê Cao](https://lecao-lab.science.unimelb.edu.au/) at Melbourne Integrative Genomics, University of Melbourne.
@@ -47,7 +47,7 @@ bio:  I have a Ph.D in applied mathematics, and especially statistics and machin
 
 ## Education
 
-- **2019-2023**: Ph.D at CMAP, Ecole polytechnique and HeKA team, INRIA/INSERM
+- **2019-2023**: Ph.D. at CMAP, Ecole polytechnique and HeKA team, INRIA/INSERM
 - **2018-2019**: MSc. at ENS Paris-Saclay, M2 MVA
 - **2013-2018**: Engineering degree in applied mathematics at INSA Toulouse - Major in statistics and data science
 
