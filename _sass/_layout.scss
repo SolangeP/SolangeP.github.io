@@ -26,6 +26,20 @@ body.sticky-bottom-footer {
   max-width: $max-content-width;
 }
 
+// Spacing between content sections (Publications, Work Experience, ...)
+.post article {
+  h2 {
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+  }
+  h3, h4, h5 {
+    margin-top: 1.75rem;
+  }
+  ul li {
+    margin-bottom: 0.4rem;
+  }
+}
+
 // Profile
 .profile {
   img {

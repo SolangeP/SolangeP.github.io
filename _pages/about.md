@@ -18,59 +18,56 @@ profile:
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
-bio: I am a postdoc in <a href = "https://researchprofiles.ku.dk/en/persons/jordi-merino-ribas"> Jordi Merino</a>'s group at <a href="https://cbmr.ku.dk/"> CBMR</a>, University of Copenhagen. I am working on using continuous glucose monitoring data to explore heterogeneity and patterns in healthy individuals, with the aim of early detection of profiles leading to type 2 diabetes.<br> I have a Ph.D. in applied mathematics, and especially statistics and machine learning. I did it at <a href="https://portail.polytechnique.edu/cmap/en/">  CMAP</a> (Ecole Polytechnique) and <a href="https://team.inria.fr/heka/">  HeKA</a> (PariSanteCampus), under the supervision of <a href = "https://sites.google.com/site/stephanieallassonniere/">  Stéphanie Allassonnière</a> and <a href="https://www.linkedin.com/in/anne-sophie-jannot-a2286ba1/"> Anne-Sophie Jannot</a>. My research project was mainly about statistical learning algorithms, mixture models, and applications to public health data. 
+meta-description: "Postdoc at CBMR, University of Copenhagen — statistics, deep learning, and continuous glucose monitoring for early diabetes detection."
+bio: I am a postdoc in <a href="https://researchprofiles.ku.dk/en/persons/jordi-merino-ribas">Jordi Merino</a>'s group at <a href="https://cbmr.ku.dk/">CBMR</a>, University of Copenhagen. I develop deep learning models for multimodal data, including continuous glucose monitoring signals, to uncover new phenotypes and behaviours in healthy populations. I am particularly interested in real-world applications of machine learning in clinical settings.<br> I have a Ph.D. in applied mathematics, specifically in statistics and machine learning. I completed it at <a href="https://portail.polytechnique.edu/cmap/en/">CMAP</a> (Ecole Polytechnique) and <a href="https://team.inria.fr/heka/">HeKA</a> (PariSanteCampus), under the supervision of <a href="https://sites.google.com/site/stephanieallassonniere/">Stéphanie Allassonnière</a> and <a href="https://www.linkedin.com/in/anne-sophie-jannot-a2286ba1/">Anne-Sophie Jannot</a>. My research focused on statistical learning algorithms, mixture models, and applications to public health data.
 ---
-<br>
-<br>
-<br>
-
 ## Publications
-- Pruilh, S, & Allassonnière, S. (2024). Dynamic Expectation-Maximization algorithms for Mixed-type Data.[[Preprint]](https://hal.science/hal-04510689)
+- Pruilh, S., & Allassonnière, S. (2024). Dynamic Expectation-Maximization algorithms for mixed-type data. [[Preprint]](https://hal.science/hal-04510689)
   
-- Pruilh, S (2023). Dynamic mixture models and longitudinal monitoring for mixed-type and spatio-temporal data inference : application in Public Health. [[Manuscript]](http://solangep.github.io/assets/pdf/manuscrit_Pruilh.pdf)
+- Pruilh, S. (2023). Dynamic mixture models and longitudinal monitoring for mixed-type and spatio-temporal data inference: application in Public Health. [[Manuscript]](http://solangep.github.io/assets/pdf/manuscrit_Pruilh.pdf)
   
-- Pruilh, S., Jannot, A. S., & Allassonnière, S. (2022). Spatio-temporal mixture process estimation to detect dynamical changes in population. Artificial Intelligence in Medicine, 126, 102258.[[Paper]](https://doi.org/10.1016/j.artmed.2022.102258)
+- Pruilh, S., Jannot, A. S., & Allassonnière, S. (2022). Spatio-temporal mixture process estimation to detect dynamical changes in population. Artificial Intelligence in Medicine, 126, 102258. [[Paper]](https://doi.org/10.1016/j.artmed.2022.102258)
   
-- Dashper, S.G., Mitchell, H.L., Lê Cao, KA. et al. (2019). Temporal development of the oral microbiome and prediction of early childhood caries. Sci Rep 9, 19732. [[Paper]](https://doi.org/10.1038/s41598-019-56233-0)
+- Dashper, S.G., Mitchell, H.L., Lê Cao, K.A. et al. (2019). Temporal development of the oral microbiome and prediction of early childhood caries. Sci Rep 9, 19732. [[Paper]](https://doi.org/10.1038/s41598-019-56233-0)
   
-- Matsuyama, M., Morrison, M.,Lê Cao, KA. et al. (2019). Dietary intake influences gut microbiota development of healthy Australian children from the age of one to two years. Sci Rep 9, 12476. [[Paper]](https://doi.org/10.1038/s41598-019-48658-4)
+- Matsuyama, M., Morrison, M., Lê Cao, K.A. et al. (2019). Dietary intake influences gut microbiota development of healthy Australian children from the age of one to two years. Sci Rep 9, 12476. [[Paper]](https://doi.org/10.1038/s41598-019-48658-4)
 
 
 
 ## Work Experience
-- **2019-2023**: Ph.D. student at CMAP, Ecole polytechnique and HeKA team, INRIA/INSERM
-- **April-August 2019**: Statistics research intern at CMAP and HeKA team
-- **February-July 2018**: Data scientist intern at Wavestone company, in Machine Learning & Data lab
-- **July-September 2017**: Statistics research intern with [Kim-Anh Lê Cao](https://lecao-lab.science.unimelb.edu.au/) at Melbourne Integrative Genomics, University of Melbourne.
+- **2025–ongoing**: SMARTbiomed fellow and postdoc at CBMR, University of Copenhagen, Denmark
+- **2019–2023**: Ph.D. student at CMAP, Ecole Polytechnique and HeKA team, INRIA/INSERM, France
+- **April–August 2019**: Statistics research intern at CMAP and HeKA team, France
+- **February–July 2018**: Data science intern at Wavestone, in the Machine Learning & Data Lab, Paris, France
+- **July–September 2017**: Statistics research intern with [Kim-Anh Lê Cao](https://lecao-lab.science.unimelb.edu.au/) at Melbourne Integrative Genomics, University of Melbourne, Australia
 
 
 
 ## Education
+- **2019–2023**: Ph.D. at CMAP, Ecole Polytechnique and HeKA team, INRIA/INSERM
+- **2018–2019**: MSc at ENS Paris-Saclay, M2 MVA
+- **2013–2018**: Engineering degree in applied mathematics at INSA Toulouse — Major in statistics and data science
 
-- **2019-2023**: Ph.D. at CMAP, Ecole polytechnique and HeKA team, INRIA/INSERM
-- **2018-2019**: MSc. at ENS Paris-Saclay, M2 MVA
-- **2013-2018**: Engineering degree in applied mathematics at INSA Toulouse - Major in statistics and data science
+## Service & Leadership
+- Co-organized the [SMARTbiomed Symposium on Machine Learning for Longitudinal and Multi-omics Data](https://eventsignup.ku.dk/smartbiomedsymposiumonlongitudinaldataandmultiomics/conference), hosted at KU, Copenhagen
+- Co-organized the [1st edition of National Seminar for Young French Applied Mathematicians](https://cjc-ma2021.github.io/) (CJC-MA) in October 2021
+- Former member of Commission Développement Durable at CMAP
+- Former member of Commission Vie de Laboratoire at CMAP
+- Vice President of INSA Toulouse's junior company during my engineering studies
 
 
-## Teaching
 
-##### 2021-2022
-- Registration and Segmentation (MAA308 and MAA309, École polytechnique, 3rd year Bachelor) 
+## Teaching 
+
+##### 2021–2022
+- Registration and Segmentation (MAA308 and MAA309, École Polytechnique, 3rd-year Bachelor)
 - Supervised a Bachelor thesis on Variational Auto-Encoders
 
-##### 2020-2021
-- Registration and Segmentation (MAA308 and MAA309, École polytechnique, 3rd year Bachelor) 
-- Regression (MAP535, Ecole polytechnique, Data Science Master with HEC)
+##### 2020–2021
+- Registration and Segmentation (MAA308 and MAA309, École Polytechnique, 3rd-year Bachelor)
+- Regression (MAP535, Ecole Polytechnique, Data Science Master with HEC)
 
-##### 2019-2020
-- Registration and Segmentation (MAA308 and MAA309, École polytechnique, 3rd year Bachelor)
-- Assistant to evaluate PSC projects 
-
-## Miscellaneous
-- Co-organized the [1st edition of National Seminar for Young French Applied Mathematicians](https://cjc-ma2021.github.io/) (CJC-MA) in October 2021! See [here](https://cjc-ma2024.sciencesconf.org/) for the next edition at ENS Lyon in October 2024
-- Former member of Commission Développement Durable at CMAP
-- Former member of Commission Vie de laboratoire at CMAP
-- Vice President of INSA Toulouse's junior company during my engineer studies
-
-
+##### 2019–2020
+- Registration and Segmentation (MAA308 and MAA309, École Polytechnique, 3rd-year Bachelor)
+- Assistant to evaluate PSC projects
 
