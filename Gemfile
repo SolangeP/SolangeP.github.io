@@ -18,7 +18,7 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem 'kramdown-parser-gfm'
-    gem 'github-pages', "~> 232"
+    gem 'github-pages', "~> 228"
     gem 'faraday-retry'
 end
 group :other_plugins do
